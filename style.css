@@ -1,0 +1,17 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+button {
+  width: 100px
+}
+
+.character {
+  background: #5C6AC4;
+  height: 50px;
+  width: 50px;
+  display: none;
+}
